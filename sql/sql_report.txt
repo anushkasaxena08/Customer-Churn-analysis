@@ -1,0 +1,168 @@
+10000|4834|48.34|60.04|600408.71|36.3
+Month-to-Month|5000|2988|59.76|60.06
+One Year|3006|1125|37.43|60.17
+Two Year|1994|721|36.16|59.79
+No|5166|300948.14|58.26|11409351.62|2208.55
+Yes|4834|299460.57|61.95|10365643.69|2144.32
+0-12 months|1697|1027|60.52
+13-24 months|1692|785|46.39
+25-48 months|3288|1510|45.92
+48+ months|3323|1512|45.5
+Electronic Check|2541|1397|54.98
+Mailed Check|2513|1167|46.44
+Credit Card|2440|1121|45.94
+Bank Transfer|2506|1149|45.85
+6+ tickets|3990|2404|60.25
+0 tickets|1050|432|41.14
+3-5 tickets|2956|1194|40.39
+1-2 tickets|2004|804|40.12
+5449|Female|46|11|99.56|Month-to-Month|5|No
+3555|Female|27|7|99.55|Month-to-Month|7|Yes
+739|Male|66|1|99.44|Month-to-Month|1|Yes
+9373|Female|23|8|99.42|Month-to-Month|9|Yes
+5722|Female|40|11|99.33|Month-to-Month|8|Yes
+6453|Female|45|5|99.1|Month-to-Month|3|Yes
+2151|Male|48|8|99.02|Month-to-Month|4|Yes
+1826|Male|31|6|98.86|Month-to-Month|5|No
+4590|Male|66|4|98.68|Month-to-Month|9|Yes
+4660|Female|45|9|98.65|Month-to-Month|1|Yes
+4669|Female|21|8|98.5|Month-to-Month|8|Yes
+491|Female|45|8|98.47|Month-to-Month|9|Yes
+7235|Male|52|6|98.38|Month-to-Month|2|No
+2382|Male|32|8|98.34|Month-to-Month|2|Yes
+1558|Male|43|6|98.25|Month-to-Month|8|Yes
+2241|Male|51|6|98.16|Month-to-Month|1|Yes
+8029|Female|35|2|97.99|Month-to-Month|0|Yes
+283|Female|51|10|97.83|Month-to-Month|3|Yes
+1061|Male|18|5|97.83|Month-to-Month|8|Yes
+5641|Female|31|2|97.79|Month-to-Month|2|Yes
+5034|Female|65|2|97.76|Month-to-Month|1|Yes
+2927|Female|28|11|97.68|Month-to-Month|8|Yes
+8602|Male|20|11|97.54|Month-to-Month|1|Yes
+1119|Male|47|8|97.51|Month-to-Month|4|Yes
+619|Male|26|4|97.34|Month-to-Month|7|Yes
+1758|Male|66|10|97.3|Month-to-Month|1|Yes
+4796|Female|48|10|97.29|Month-to-Month|4|No
+391|Male|47|11|97.26|Month-to-Month|9|Yes
+4322|Male|65|11|97.24|Month-to-Month|6|Yes
+5776|Male|25|3|97.12|Month-to-Month|1|Yes
+9156|Male|48|1|96.8|Month-to-Month|0|Yes
+9004|Female|18|9|96.65|Month-to-Month|5|Yes
+515|Female|62|7|96.61|Month-to-Month|2|No
+3823|Female|64|9|96.59|Month-to-Month|7|Yes
+5886|Male|30|11|96.53|Month-to-Month|2|No
+7325|Male|61|4|96.36|Month-to-Month|1|No
+1018|Male|44|10|96.31|Month-to-Month|1|Yes
+7772|Female|62|2|96.16|Month-to-Month|0|Yes
+3427|Female|62|3|96.06|Month-to-Month|4|Yes
+9601|Male|20|10|95.99|Month-to-Month|2|Yes
+420|Female|47|4|95.93|Month-to-Month|7|Yes
+2875|Female|23|3|95.93|Month-to-Month|6|Yes
+4139|Male|53|9|95.89|Month-to-Month|3|No
+3648|Male|50|11|95.81|Month-to-Month|2|No
+8916|Male|21|7|95.62|Month-to-Month|2|Yes
+5027|Male|37|2|95.49|Month-to-Month|8|Yes
+5890|Male|34|1|95.44|Month-to-Month|1|Yes
+3861|Female|43|10|95.42|Month-to-Month|0|Yes
+4312|Male|33|7|95.33|Month-to-Month|6|Yes
+7160|Female|59|3|95.32|Month-to-Month|5|Yes
+9722|Male|23|10|95.29|Month-to-Month|7|Yes
+9553|Female|41|8|95.24|Month-to-Month|9|No
+2214|Male|25|4|95.17|Month-to-Month|4|Yes
+7098|Male|20|2|95.05|Month-to-Month|9|Yes
+8884|Male|57|10|95.02|Month-to-Month|7|Yes
+4421|Female|54|11|94.99|Month-to-Month|2|Yes
+572|Male|28|7|94.97|Month-to-Month|4|Yes
+1958|Male|36|6|94.85|Month-to-Month|5|Yes
+9226|Female|50|11|94.8|Month-to-Month|5|Yes
+5872|Female|65|5|94.77|Month-to-Month|1|Yes
+9182|Female|62|7|94.63|Month-to-Month|0|Yes
+9228|Male|66|3|94.5|Month-to-Month|1|Yes
+6141|Male|51|9|94.49|Month-to-Month|8|Yes
+1710|Female|56|8|94.2|Month-to-Month|6|No
+3315|Male|29|1|94.18|Month-to-Month|3|Yes
+3497|Female|34|5|94.15|Month-to-Month|1|Yes
+1656|Male|57|10|94.12|Month-to-Month|1|Yes
+6807|Male|26|2|94.12|Month-to-Month|9|Yes
+2035|Male|52|6|93.79|Month-to-Month|5|No
+181|Male|36|1|93.6|Month-to-Month|7|Yes
+5106|Male|65|5|93.59|Month-to-Month|1|Yes
+5340|Female|22|11|93.57|Month-to-Month|4|No
+9720|Female|22|6|93.55|Month-to-Month|4|Yes
+1574|Female|51|5|93.46|Month-to-Month|8|Yes
+1404|Female|43|3|93.23|Month-to-Month|0|Yes
+9842|Male|56|11|93.2|Month-to-Month|2|Yes
+7397|Male|28|9|92.93|Month-to-Month|9|Yes
+766|Male|50|10|92.77|Month-to-Month|2|Yes
+6684|Male|53|6|92.77|Month-to-Month|6|Yes
+6910|Male|23|3|92.73|Month-to-Month|7|Yes
+4860|Female|39|5|92.52|Month-to-Month|3|Yes
+1011|Male|46|4|92.45|Month-to-Month|0|Yes
+1122|Male|33|9|92.45|Month-to-Month|6|Yes
+6640|Female|54|10|92.43|Month-to-Month|4|No
+4890|Male|59|10|92.28|Month-to-Month|0|No
+5438|Male|54|4|92.25|Month-to-Month|1|Yes
+3045|Female|21|4|92.21|Month-to-Month|6|Yes
+5212|Male|67|2|92.15|Month-to-Month|2|Yes
+4192|Male|36|10|92.13|Month-to-Month|1|Yes
+4894|Male|21|11|92.07|Month-to-Month|3|Yes
+8742|Male|34|11|91.74|Month-to-Month|7|Yes
+5708|Female|62|11|91.28|Month-to-Month|6|No
+594|Female|18|10|91.23|Month-to-Month|9|Yes
+4884|Male|19|9|91.2|Month-to-Month|5|No
+8681|Male|62|6|91.04|Month-to-Month|7|Yes
+1768|Male|60|5|90.96|Month-to-Month|2|Yes
+9250|Female|30|4|90.76|Month-to-Month|7|Yes
+3261|Female|25|9|90.75|Month-to-Month|3|Yes
+6556|Female|63|10|90.3|Month-to-Month|2|Yes
+8943|Male|43|7|90.23|Month-to-Month|2|No
+High Risk|806|596|73.95|49175.65
+Medium Risk|6175|3358|54.38|370142.15
+Low Risk|3019|880|29.15|181090.91
+18-29|2355|1148|48.75
+30-39|2129|1039|48.8
+40-49|1987|972|48.92
+50-59|1959|896|45.74
+60+|1570|779|49.62
+Low ($0-$30)|1249|562|45.0|25.06
+Medium ($30-$60)|3723|1669|44.83|45.08
+High ($60-$90)|3806|1927|50.63|74.9
+Very High ($90+)|1222|676|55.32|95.08
+Female|4987|2409|48.31
+Male|5013|2425|48.37
+Month-to-Month|Electronic Check|1269|857|67.53
+Month-to-Month|Credit Card|1209|700|57.9
+Month-to-Month|Mailed Check|1302|746|57.3
+Month-to-Month|Bank Transfer|1220|685|56.15
+One Year|Electronic Check|745|317|42.55
+Two Year|Electronic Check|527|223|42.31
+One Year|Bank Transfer|796|294|36.93
+One Year|Mailed Check|732|261|35.66
+Two Year|Bank Transfer|490|170|34.69
+One Year|Credit Card|733|253|34.52
+Two Year|Credit Card|498|168|33.73
+Two Year|Mailed Check|479|160|33.4
+No|42.46|37.89|58.26|50.25|4.02
+Yes|42.23|34.61|61.95|49.86|4.95
+8590|72|98.29|7300.37|One Year|Credit Card|4
+5457|72|98.07|7275.89|Month-to-Month|Electronic Check|6
+4699|72|99.69|7137.09|Two Year|Credit Card|9
+5781|72|99.09|7087.88|Month-to-Month|Electronic Check|7
+7291|69|98.51|7087.28|Month-to-Month|Bank Transfer|2
+7177|72|93.77|7079.69|One Year|Mailed Check|3
+4494|68|99.94|6996.79|Month-to-Month|Mailed Check|1
+6882|72|95.52|6970.27|Month-to-Month|Bank Transfer|6
+7329|71|94.89|6935.72|One Year|Credit Card|6
+1611|68|99.89|6926.64|One Year|Electronic Check|1
+6100|70|99.08|6923.08|Month-to-Month|Electronic Check|8
+9827|72|98.87|6879.89|One Year|Mailed Check|7
+6339|70|94.22|6848.19|Two Year|Electronic Check|4
+8152|71|96.26|6842.17|Month-to-Month|Credit Card|4
+147|71|94.4|6792.77|Month-to-Month|Electronic Check|8
+422|71|95.49|6792.02|Month-to-Month|Mailed Check|0
+1490|72|91.68|6758.12|Two Year|Bank Transfer|0
+5864|71|98.19|6736.76|Month-to-Month|Electronic Check|7
+3365|67|98.34|6733.58|Two Year|Credit Card|7
+6980|69|93.2|6730.19|Month-to-Month|Electronic Check|6
+No|4044|1933|47.8
+Yes|5956|2901|48.71

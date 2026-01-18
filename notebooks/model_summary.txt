@@ -1,0 +1,28 @@
+============================================================
+CUSTOMER CHURN PREDICTION MODEL SUMMARY
+============================================================
+
+Model: Logistic Regression
+
+Dataset Size: 10000 customers
+Training Set: 8000 samples
+Test Set: 2000 samples
+
+Overall Churn Rate: 48.34%
+
+Model Performance:
+  - Accuracy: 82.00%
+  - ROC-AUC Score: 0.6651
+
+Confusion Matrix:
+  True Negatives: 657
+  False Positives: 376
+  False Negatives: 384
+  True Positives: 583
+
+Top 5 Churn Drivers:
+  Contract: -0.5642
+  SupportTickets: 0.3460
+  Tenure: -0.2015
+  MonthlyCharges: 0.1771
+  PaperlessBilling: 0.0478
